@@ -18,7 +18,6 @@ Clone this repository to your local machine or download the script.
 Set your Replicate API token as an environment variable for security purposes. You can do this by adding the following line to your environment or in your script:
 
 python
-Copy code
 os.environ["REPLICATE_API_TOKEN"] = "YOUR_API_TOKEN"
 Replace "YOUR_API_TOKEN" with your actual API token.
 
@@ -44,6 +43,7 @@ Make sure your Replicate API token is kept secure and not shared publicly.
 You can adjust the scale factor or other parameters by modifying the script according to your requirements.
 
 Acknowledgments
+
 [Real-ESRGAN](https://replicate.com/nightmareai/real-esrgan)
 Replicate Real-ESRGAN: For providing access to the Real-ESRGAN model.
 Enjoy enhancing your images with Real-ESRGAN! If you encounter any issues or have questions, please feel free to reach out for assistance.
